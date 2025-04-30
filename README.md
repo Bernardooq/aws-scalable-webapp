@@ -74,9 +74,3 @@ This project is a proof of concept (POC) to design and deploy a highly available
 ## 🏁 Conclusion
 
 This project serves as a demonstration of deploying resilient and scalable applications in the AWS Cloud. It adheres to core AWS architecture principles and provides a foundation for real-world implementations.
-
----
-
-## 📎 License
-
-MIT License
