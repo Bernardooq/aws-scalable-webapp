@@ -13,8 +13,6 @@ This project is a proof of concept (POC) to design and deploy a highly available
 
 ## Architecture Diagram
 
-> Insert your AWS architecture diagram here (e.g., VPC, EC2, RDS, ALB)
-
 ## Technologies Used
 
 - Amazon EC2
