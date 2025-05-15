@@ -11,8 +11,6 @@ This project is a proof of concept (POC) to design and deploy a highly available
 - Estimate cost using AWS Pricing Calculator
 - Deploy and test a functional web app
 
-## Architecture Diagram
-
 ## Technologies Used
 
 - Amazon EC2
